@@ -17,7 +17,7 @@ This app was created as a challenge project with [Frontend Mentor](https://www.f
 
 ## Tech Used / Dependencies
 
-- This is developed with puer HTML and CSS.
+- This is developed with pure HTML and CSS.
 
 - All images, copy, and colors from [Frontend Mentor])https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
 
